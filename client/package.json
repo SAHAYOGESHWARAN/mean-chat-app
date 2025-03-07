@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@angular/cdk": "^19.2.2",
+    "@angular/material": "^19.2.2",
+    "socket.io-client": "^4.8.1"
+  }
+}
